@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgba(227, 99, 124, 0.755);
+    color: #333;
+    font-style: oblique;
+    font-size: 3rem;
+    font-family: monospace;
+}
+
+h1 h2 {
+    font-size: 2em;
+    color: red;
+    background-color: yellow;
+    padding: 2rem;
+}
